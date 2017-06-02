@@ -20,7 +20,7 @@ public class FuncionResto {
      */
     public static void main(String[] args) {
         Scanner teclado = new Scanner (System. in);
-        System. out. println ("Escriball el gdividendo: ");
+        System. out. println ("eeeeeeeeeeeeeeeeeeeeeeEscriball el gdividendo: ");
          int dividendo = teclado. nextInt();
          System. out. println ("Escriba el divisor: ");
        int divisor = teclado. nextInt();
